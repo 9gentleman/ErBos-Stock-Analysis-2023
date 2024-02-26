@@ -33,3 +33,8 @@ Additionally, a forecast for the period is also reported.
 - **Forecast Report**: Description of the forecast made for the period.
 
 ## Contribution
+Those who wish to contribute can make corrections, improvements, or add new features related to the project. To contribute, please create a GitHub account, fork this repository, make your changes, and submit a pull request.
+
+## Contact
+
+If you have any questions or feedback, please email me at [firmaA_1@hotmail.com](mailto:firmaA_1@hotmail.com).
