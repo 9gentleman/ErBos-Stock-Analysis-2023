@@ -1,6 +1,6 @@
 # ErBos Hisse Senedi İstatistiksel Analizi
 
-Bu depo, ErBos hisse senedi için 1.5 aylık bir döneme ait istatistiksel analizleri içermektedir.
+Bu repository, ErBos hisse senedi için 1.5 aylık bir döneme ait istatistiksel analizleri içermektedir.
 Bu analizde, hisse senedi fiyatları üzerinde yapılan istatistiksel analizlerin yanı sıra borsaya ait bazı grafik görselleştirmeleri ve ortalama değerler gibi ek bilgiler bulunmaktadır.
 Ayrıca, dönem için yapılan bir tahmin de raporlanmıştır.
 
