@@ -11,8 +11,7 @@ To ensure that the analyses run smoothly with the provided data, please follow t
 
 Download the Excel Files: Obtain the necessary Excel files from the repository.
 Import the Files: Use the appropriate code to import these files into your analysis environment. Below is a sample code snippet for importing an Excel file using R:
-R
-Kodu kopyala
+```R
 # Install the readxl package if you haven't already
 install.packages("readxl")
 
@@ -24,6 +23,7 @@ df <- read_excel("your_file.xlsx")
 
 # Display the first few rows of the dataframe
 print(head(df))
+```
 Integrate with Existing Code: Ensure that the imported data is integrated correctly with the existing code in the repository. Modify any file paths or variables as needed to align with your setup.
 
 Run the Analysis: Execute the analysis scripts to generate reports, charts, and forecasts as described in the repository.
